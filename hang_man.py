@@ -230,7 +230,12 @@ def main():
     if not check_win(secret_word, old_letters_guessed):
         print(YOU_LOSE_ASCII_ART)
         print("the word was: "+ secret_word)
+       
+       smile = ""
+       
+       if true:
+        smile = ":)"
+         
 if __name__ == '__main__':
     main()# hangman-game
 
-  # change is always better
